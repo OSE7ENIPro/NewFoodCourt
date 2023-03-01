@@ -1,0 +1,8 @@
+.root-card{
+    display: flex;
+}
+.main-div{
+    display: flex;
+    margin: 40px;
+    padding: 10px;
+}

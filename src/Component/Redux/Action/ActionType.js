@@ -1,0 +1,1 @@
+export const MANAGE_PRODUCT='MANAGE_PRODUCT'
